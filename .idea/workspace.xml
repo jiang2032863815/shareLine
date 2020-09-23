@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6c74e4b8-d5fc-4778-b407-969519fb1409" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Go File" />
+      </list>
+    </option>
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="ProjectId" id="1hqIAkcZ7pa3Yk6US7Hc6L7CBLi" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultGoTemplateProperty" value="Go File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.tried.to.enable.integration.vgo.integrator" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration name="go build shareLine" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="shareLine" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="shareLine" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build shareLine" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="520" y="270" key="#Go_Modules" timestamp="1600752409469">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state x="520" y="270" key="#Go_Modules/0.23.1440.814@0.23.1440.814" timestamp="1600752409469" />
+    <state width="1398" height="487" key="GridCell.Tab.0.bottom" timestamp="1600836063239">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="487" key="GridCell.Tab.0.bottom/0.23.1440.814@0.23.1440.814" timestamp="1600836063239" />
+    <state width="1398" height="487" key="GridCell.Tab.0.center" timestamp="1600836063238">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="487" key="GridCell.Tab.0.center/0.23.1440.814@0.23.1440.814" timestamp="1600836063238" />
+    <state width="1398" height="487" key="GridCell.Tab.0.left" timestamp="1600836063237">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="487" key="GridCell.Tab.0.left/0.23.1440.814@0.23.1440.814" timestamp="1600836063237" />
+    <state width="1398" height="487" key="GridCell.Tab.0.right" timestamp="1600836063238">
+      <screen x="0" y="23" width="1440" height="814" />
+    </state>
+    <state width="1398" height="487" key="GridCell.Tab.0.right/0.23.1440.814@0.23.1440.814" timestamp="1600836063238" />
+  </component>
+</project>
